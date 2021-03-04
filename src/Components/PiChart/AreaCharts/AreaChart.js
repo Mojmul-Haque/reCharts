@@ -69,7 +69,7 @@ export default function AreaCharts () {
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <AreaChart
           width={1140}
-          height={600}
+          height={400}
           data={data}
           margin={{
             top: 10,
