@@ -60,7 +60,7 @@ const data = [
 function BarAreaChart () {
   return (
     <>
-      <h3>Composed Charts</h3>
+      <h3>Composed Chart</h3>
       <div style={{ display: 'flex', justifyContent: 'center' }}>
         <ComposedChart
           width={500}
